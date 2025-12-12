@@ -9,4 +9,4 @@ This repository provides a complete end-to-end automation solution for migrating
 4) Automated creation of corresponding cloud DLs
 5) Automated restoration of membership, owners, and delivery restrictions
 
-The entire migration workflow is controlled and executed through the #MasterDLsMigrate.ps1 script.
+The entire migration workflow is controlled and executed through the # MasterDLsMigrate.ps1 script.
